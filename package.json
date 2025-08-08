@@ -2,9 +2,9 @@
   "name": "cyber-xmd",
   "version": "1.0.0",
   "description": "CYBER-Xmd WhatsApp Hacker Bot",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.0",
