@@ -1,0 +1,16 @@
+# Sensitive data - DO NOT UPLOAD THESE!
+auth_info/
+creds.json
+.env
+.env.local
+config.json
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Logs (optional - you can upload if you want)
+*.log
+logs/
